@@ -886,3 +886,21 @@ a.c-collapse {
 .c-margin-bot-detail-order {
     margin-bottom: 100px;
 }
+
+
+/* ====================== Style #login ====================== */
+
+.c-login {
+    max-width: 300px;
+    margin: 100px auto;
+}
+.c-login-btn:hover {
+    border: 1px #495057 solid;
+}
+a.c-link-color {
+    color: #888;
+    text-decoration: none;
+}
+a.c-link-color:hover {
+    color: #222;
+}
