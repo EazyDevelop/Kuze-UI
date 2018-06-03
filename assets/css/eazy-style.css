@@ -904,3 +904,53 @@ a.c-link-color {
 a.c-link-color:hover {
     color: #222;
 }
+
+
+/* ====================== Style #profil, status, history ====================== */
+
+.c-profil-icon {
+    width: 20px;
+    text-align: center;
+}
+a.c-edit {
+    color: #222;
+}
+img.c-img-order {
+    width: 80px;
+    height: 100px;
+}
+.c-price-history {
+    font-size: 21px;
+    line-height: 19px;
+    color: #777;
+    font-family: 'Poppins', sans-serif;
+}
+span.c-success {
+    /*color: #A7D267;*/
+    color: #56cfe1;
+    font-size: 15px;
+}
+span.c-deliver{
+    /*color: #A7D267;*/
+    color: gold;
+    font-size: 15px;
+}
+span.c-out{
+    /*color: #A7D267;*/
+    color: #FC411D;
+    font-size: 15px;
+}
+
+.media h5 {
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+.media:hover  h5:first-child {
+    color: #56cfe1;
+}
+.c-profil-active {
+    background-color: #F1F1F1;
+}
+.media-body a{
+    text-decoration: none;
+}
