@@ -629,6 +629,14 @@ li.c-li-side {
     color: #888888;
     margin-bottom: 60px;
 }
+.c-detail-number input {
+    width: 155px;
+    height: 40px;
+    margin-bottom: 30px;
+    padding: 0 10px;
+    color: #888;
+    font-family: 'Poppins', sans-serif;
+}
 .c-cart-detail{
     color: #fff;
     font-size: 15px;
@@ -826,6 +834,11 @@ a.c-btn-cart {
     font-weight: bold;
     color: #777;
 }
+.c-input-cart input {
+    padding-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: #888;
+}
 
 
 
@@ -956,4 +969,13 @@ span.c-out{
 }
 .c-color-profil {
     color: #444;
+}
+
+.c-pagination a {
+    color: #444;
+}
+
+.c-pagination:hover a {
+    color: #56cfe1;
+    background-color: transparent;
 }
